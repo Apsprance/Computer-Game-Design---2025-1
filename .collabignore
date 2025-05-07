@@ -31,3 +31,22 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
+
+# Unity auto-generated folders (should not be tracked)
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE folders
+.vscode/
+
+# Unity cache files
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+*.opendb.meta
+*.pidb.meta
